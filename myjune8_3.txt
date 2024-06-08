@@ -1,0 +1,37 @@
+
+Interview questions:
+
+What is Git, and how does it differ from other version control systems?
+Can you explain the purpose of the git init command?
+How do you check the status of your repository and what kind of information does git status provide?
+Describe the process of staging changes in Git. What commands are involved?
+What is the significance of a commit in Git, and how is it created?
+
+What is GitHub, and how is it different from Git?
+How do you clone a repository from GitHub to your local machine?
+What is a pull request, and why is it important in a collaborative development environment?
+Describe the process of pushing changes to a remote repository on GitHub.
+Where is the remote repository URL stored in a local Git repository?
+Commits and Staging Area
+What is a commit in Git, and how does it relate to the staging area?
+Explain the purpose of the staging area in Git. How does it help in the version control process?
+How can you remove a file from the staging area without deleting it from the working directory?
+What is the git commit --amend command used for, and when would you use it?
+How do you view the commit history in a Git repository?
+
+What is a local repository in Git, and how is it different from a remote repository?
+How do you create a new branch in a local repository, and why would you want to do this?
+Describe the command used to switch between branches in Git.
+What is the difference between git pull and git fetch?
+What kind of configuration settings are stored in the .git/config file?
+
+What is a branch in Git, and how is it useful in development?
+Describe the process of merging one branch into another in Git. What command is used?
+What is a merge conflict, and how can it occur?
+How would you resolve a merge conflict in Git?
+Can you explain the different strategies for integrating changes from one branch to another?
+What is the .gitignore file, and why is it important?
+How do you add a file to be ignored by Git?
+Can directories be ignored using .gitignore? How would you do it?
+What is the purpose of using wildcard characters in a .gitignore file?
+If a file is already tracked by Git, does adding it to .gitignore stop it from being tracked? Why or why not?

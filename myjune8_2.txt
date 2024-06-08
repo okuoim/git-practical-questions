@@ -1,0 +1,194 @@
+
+MCQ
+
+Git Basics
+1) What is Git?
+
+A) A programming language
+B) A version control system
+C) A code editor
+D) A type of database
+
+2) Which command initializes a new Git repository?
+
+A) git start
+B) git init
+C) git new
+D) git create
+How do you check the status of your working directory and staging area?
+
+A) git check
+B) git status
+C) git review
+D) git verify
+What command stages changes for the next commit?
+
+A) git stage
+B) git add
+C) git commit
+D) git include
+Which command commits staged changes to the repository?
+
+A) git add
+B) git save
+C) git commit
+D) git push
+GitHub
+What is GitHub?
+
+A) A database for storing files
+B) A hosting service for Git repositories
+C) A cloud-based development environment
+D) A text editor for coding
+Which command is used to clone a repository from GitHub?
+
+A) git fetch
+B) git clone
+C) git copy
+D) git replicate
+What is a pull request in GitHub?
+
+A) A request to delete a branch
+B) A request to merge code changes
+C) A request to push changes to a repository
+D) A request to create a new repository
+How do you push changes to a remote repository on GitHub?
+
+A) git send
+B) git update
+C) git push
+D) git deploy
+Which file typically contains the URL of the remote repository?
+
+A) README.md
+B) .gitignore
+C) .git/config
+D) remote.txt
+Commits and Staging Area
+What is a commit in Git?
+
+A) A backup of the repository
+B) A snapshot of changes
+C) A list of files to be ignored
+D) A branch merge request
+What does the staging area do in Git?
+
+A) Stores untracked files
+B) Keeps a history of all commits
+C) Holds changes that will be included in the next commit
+D) Manages branches and merges
+Which command removes a file from the staging area?
+
+A) git delete
+B) git discard
+C) git remove
+D) git reset
+How can you amend the most recent commit?
+
+A) git amend
+B) git rebase
+C) git commit --amend
+D) git modify
+Which command lists the commit history?
+
+A) git history
+B) git log
+C) git show
+D) git list
+Local Repository
+What is a local repository in Git?
+
+A) A remote server for storing code
+B) The working directory where code is edited
+C) A version of the repository on your local machine
+D) A branch of the main repository
+How do you create a new branch in a local repository?
+
+A) git new branch
+B) git branch create
+C) git branch
+D) git checkout branch
+Which command switches between branches in a local repository?
+
+A) git switch
+B) git checkout
+C) git change
+D) git move
+How do you update your local repository with changes from the remote repository?
+
+A) git pull
+B) git fetch
+C) git update
+D) git sync
+Which file in the local repository contains the configuration settings?
+
+A) config.json
+B) .gitignore
+C) settings.xml
+D) .git/config
+Branch and Merge Strategy
+What is a branch in Git?
+
+A) A backup of the repository
+B) A pointer to a specific commit
+C) A collection of staged files
+D) A clone of the repository
+Which command merges changes from one branch into another?
+
+A) git connect
+B) git merge
+C) git combine
+D) git pull
+What is a merge conflict in Git?
+
+A) When two branches have identical changes
+B) When there are no differences between branches
+C) When two branches have conflicting changes
+D) When a branch cannot be merged
+How do you resolve a merge conflict?
+
+A) By deleting the conflicting branch
+B) By using the git fix command
+C) By manually editing the conflicting files
+D) By running git resolve
+Which strategy can be used to integrate changes from one branch to another?
+
+A) Rebase
+B) Fast-forward
+C) Cherry-pick
+D) All of the above
+Ignoring Files
+Which file is used to specify files that should be ignored by Git?
+
+A) .git/config
+B) README.md
+C) .gitignore
+D) ignore.txt
+How do you add a file to be ignored by Git?
+
+A) Add the filename to .gitignore
+B) Use the git ignore command
+C) Add the filename to .git/config
+D) Use the git exclude command
+Can directories be ignored using .gitignore?
+
+A) Yes, by listing the directory name
+B) No, only individual files can be ignored
+C) Yes, but only if they are empty
+D) No, directories are always tracked
+
+Which wildcard character can be used in .gitignore to match any string of characters?
+
+A) ?
+B) *
+C) #
+D) !
+
+If a file is already tracked by Git, does adding it to .gitignore stop it from being tracked?
+
+A) Yes
+B) No
+C) Only if it is in the root directory
+D) Only if it is a binary file
+
+

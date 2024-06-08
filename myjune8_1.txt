@@ -1,0 +1,26 @@
+GIT PRACTICAL QUESTIONS:
+
+
+1) Create a local repo and create 3 commits in the locally.
+
+
+2) Create a centralized repo (private) (GitHub.com) and push the code to the GitHub.com repo
+
+3) make that repo public from private
+
+4) create a file myfile.log and ignore the file 
+
+5) push all the commits locally to GitHub.com
+
+6) Create a new branch with the name -> mybranch
+create 2 commits c1 and c2 in the mybranch
+
+7) now what branch merge strategy you will follow 
+Hint: push the code from branch to the GitHub ....then raise pull request
+
+8) What is git merge and git rebase. Demonstrate to show the difference between these two .
+
+9) how to delete the remote origin (locally) 
+(here i am not asking to delete the GitHub repo...only remote origin which comes from git remote -v) 
+
+
